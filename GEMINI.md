@@ -1,0 +1,1 @@
+This project is a 4-week Flutter application development education plan for a middle school student. The curriculum focuses on hands-on practice over theory to spark interest in programming. The course covers Dart basics, Flutter widgets, and state management, and the student will create their own application in a mini-project.
